@@ -25,7 +25,7 @@
     },
     methods: {
       login() {
-        // Aquí se puede agregar la lógica para enviar la información de inicio de sesión al servidor y manejar la respuesta
+        
         console.log(`Iniciar sesión con el nombre de usuario ${this.username} y la contraseña ${this.password}`);
       }
     }
