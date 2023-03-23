@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h2>asdaksjhdkjak</h2>
+  
 </template>
 
 <style scoped>
